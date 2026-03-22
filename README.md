@@ -18,7 +18,7 @@ This project presents a Sales Analysis Dashboard created using Power BI. It help
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-03-22 232337.png)
 
 ## 🎯 Insights
 
